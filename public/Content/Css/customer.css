@@ -1,0 +1,96 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+html, body {
+    height: 100%;
+    font-family: 'Kanit', sans-serif;
+    overflow-x: hidden;
+}
+
+.img-width-fill {
+    width: 100%;
+}
+
+.img-center {
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.f-top {
+    align-items: normal !important;
+}
+
+.minwidth99 {
+    min-width: 99px;
+}
+
+.minwidth178 {
+    min-width: 178px;
+}
+
+.btnw100 {
+    width: 100%;
+    height: 77%;
+}
+
+.btnw50 {
+    width: 100%;
+}
+
+.lglg {
+    height: 600px!important;
+}
+
+.divhr {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    height: 1px;
+    overflow: hidden;
+    background: #e9ecef;
+}
+
+.nmt-0 {
+    margin-top: -.5rem;
+}
+
+.nmt-1 {
+    margin-top: -1.2rem;
+}
+
+.nmt-2 {
+    margin-top: -2.5rem;
+}
+
+.lgg {
+    font-size: 3.5rem !important;
+    height: calc(2.875rem + 38px) !important;
+}
+
+.lgs {
+    height: calc(2.875rem + 38px) !important;
+}
+
+.border-success {
+    border: #3ac47d solid 1px;
+}
+
+#lightboxOverlay {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    height: 100% !important;
+    width: 100% !important;
+}
+
+#lightbox {
+    position: fixed !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+}
+
+.head-box-h2 {
+    height: 2.5rem !important;
+}
+
+.txtboxh30 {
+    font-size: .88rem !important;
+}

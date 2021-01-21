@@ -1,0 +1,68 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+html, body {
+    height: 100%;
+    font-family: 'Kanit', sans-serif;
+    overflow-x: hidden;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.alignright {
+    float: right;
+}
+
+.inline-6 {
+    margin-top: -6px;
+}
+
+.f-top {
+    align-items: normal!important;
+}
+
+.divhr {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    height: 1px;
+    overflow: hidden;
+    background: #e9ecef;
+}
+
+.lg {
+    font-size: 1rem!important;
+}
+
+.lgg {
+    font-size: 3.5rem!important;
+    height: calc(2.875rem + 38px)!important;
+}
+
+.open-price-font-size {
+    font-size: 3.5rem!important;
+}
+
+.open-price-heading-font-size {
+    font-size: 2rem !important;
+}
+
+.minwidth146 {
+    min-width: 146px;
+}
+
+.head-box-h2 {
+    height: 2.5rem !important;
+}
+
+.he {
+    height: -webkit-fill-available !important;
+}
+
+.w-51 {
+    width: 51.2% !important;
+}
+
+.hh {
+    height: 100%!important;
+}
